@@ -1,22 +1,14 @@
-Api: https://fakestoreapi.com/docs#tag/Users
+Basic CRUD operation to Add, Delete and Update the users using MERN stack. 
 
-Requirements:
-Table listing users
-View/Edit each user
-Add new user
-Delete User
+To run the frontend : 
+1. Go to Client folder
+2. Run command : npm run dev
 
-Unit test (minmum 2)
-User data i/p authenticate pass/fail
-New user save
-Edit user
-Delete User
+To run the server : 
+1. Go to Server folder
+2. Run command :  npm start
 
-Important:
-Typescript (everywhere - function i/p & o/p, best to create a separate types file)
-User of stores/ context generator/ redux where required
-Scalability & Reusabiltiy
-Github with readme file
-
-
-To run the project : npm start 
+To start the monod locally ( as using Mac) run following commands: 
+1. screen -S <name-of-screen>
+2. mongod --config /opt/homebrew/etc/mongod.conf
+3. screen -ls
