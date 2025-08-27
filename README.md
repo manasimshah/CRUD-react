@@ -1,10 +1,10 @@
 Basic CRUD operation to Add, Delete and Update the users using MERN stack. 
 
-To run the frontend : 
+To run the frontend : (React + JavaScript + Tailwind)
 1. Go to Client folder
 2. Run command : npm run dev
 
-To run the server : 
+To run the server : (Node.js + Express)
 1. Go to Server folder
 2. Run command :  npm start
 
